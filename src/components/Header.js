@@ -6,7 +6,7 @@ function Header() {
       <header>
         <div>
           <img
-            className="h-10 w-15"
+            className=" h-10 w-15 cursor-pointer bg-re "
             src={process.env.PUBLIC_URL + "/logo.png"}
             alt=""
           />{" "}
