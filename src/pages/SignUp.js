@@ -25,7 +25,7 @@ const SignUP = () => {
         <div className="md:w-[65%] lg:w-[45%] mb-8 mb:mb-6">
           <img
             className=" w-full rounded-2xl "
-            src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1673&q=80"
+            src="https://images.unsplash.com/photo-1585914641050-fa9883c4e21c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1734&q=80"
             alt="Key"
           />
         </div>

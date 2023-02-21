@@ -17,7 +17,7 @@ const ForgotPassword = () => {
         <div className="md:w-[65%] lg:w-[45%] mb-8 mb:mb-6">
           <img
             className=" w-full rounded-2xl "
-            src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1673&q=80"
+            src="https://images.unsplash.com/flagged/photo-1564767609342-620cb19b2357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1373&q=80"
             alt="Key"
           />
         </div>
