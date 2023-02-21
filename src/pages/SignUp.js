@@ -70,7 +70,7 @@ const SignUP = () => {
             </div>
             <div className="flex justify-between whitespace-nowrap text-sm sm:text-lg">
               <p className="mb-6 ">
-                Have an account yet?
+                Don't have an account yet?
                 <Link
                   className="text-red-400 hover:text-red-700 
                   transition duration-200 ease-in-out"
