@@ -10,6 +10,7 @@ import {
 } from "firebase/auth";
 import { db } from "../firebase";
 import { doc, serverTimestamp, setDoc } from "firebase/firestore";
+import { toast } from "react-toastify";
 
 const SignUP = () => {
   const [showPassword, setshowPassword] = useState(false);
@@ -51,7 +52,9 @@ const SignUP = () => {
       await setDoc(doc(db, "users", user.uid), formDataCopy);
       navigate("/");
     } catch (error) {
-      console.log(error);
+      //toast library for popup notifications.
+
+      toast.error("Something went wrong with the registration");
     }
   };
   return (
